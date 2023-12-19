@@ -7,7 +7,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Estimation of trajectory of protective efficacy using a PK/PD function embeded in an AG model:
+### Estimation of trajectory of protective efficacy using a PK/PD function embeded in an AG model:
 
 "Functions4ParPKPD.R": program includes all functions needed in the model estimation.
 
@@ -17,7 +17,7 @@ Estimation of trajectory of protective efficacy using a PK/PD function embeded i
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Simulation evaluation of the method:
+### Simulation evaluation of the method:
 
 "Simu_Functions4ParPKPD.R": program includes all functions needed in the simulation study
 
